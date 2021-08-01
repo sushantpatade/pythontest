@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("Inside main method")
     print("2nd branch created")
+    print("3RD branch created")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
